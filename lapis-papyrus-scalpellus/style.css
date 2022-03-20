@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-family: "Xanh Mono", monospace;
+}
+#container {
+  width: 1000px;
+  margin: 0 auto;
+}
+img {
+  width: 1000px;
+}
+h1,
+h2 {
+  background: gold;
+}
+button {
+  font-family: "Xanh Mono", monospace;
+}
