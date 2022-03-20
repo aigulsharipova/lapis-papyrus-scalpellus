@@ -1,4 +1,4 @@
-onst computer = {
+const computer = {
   currentChoice: null
 }
 const player = {
